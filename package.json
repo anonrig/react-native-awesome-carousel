@@ -1,0 +1,13 @@
+{
+  "name": "react-native-awesome-carousel",
+  "version": "1.0.0",
+  "description": "React Native Carousel with built-in RTL Support",
+  "main": "src/index.js",
+  "repository": "git@github.com:anonrig/react-native-awesome-carousel.git",
+  "author": "Yagiz Nizipli <yagiznizipli@me.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "flow-bin": "^0.37.0"
+  }
+}
